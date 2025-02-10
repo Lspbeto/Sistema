@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-23">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sistema/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lspbe/Downloads/itextpdf-5.5.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/itext7-core-7.2.2.pom"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/barcodes-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/barcodes-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/barcodes-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/font-asian-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/forms-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/forms-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/forms-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/hyph-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/io-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/io-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/io-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/kernel-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/kernel-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/kernel-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/layout-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/layout-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/layout-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/pdfa-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/pdfa-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/pdfa-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/pdftest-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/pdftest-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/pdftest-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/sign-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/sign-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/sign-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/styled-xml-parser-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/styled-xml-parser-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/styled-xml-parser-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/svg-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/svg-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Temp/ws-eclipse/Sis/Sistema/itext/svg-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Sistema/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
